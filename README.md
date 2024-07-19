@@ -11,9 +11,7 @@ Copy the URL then run git clone https://github.com/Muralidharan-lab/explore_cali
   
 Link to Install Ranger desktop: Rancher Desktop by SUSE 
 
- 
-
-
+ ![image](https://github.com/user-attachments/assets/82307788-f735-4942-8887-a90d1b07c8e2)
 
 install Linux on Windows with WSL:  Install WSL | Microsoft Learn
 
